@@ -1,5 +1,5 @@
 # Comp484_HW1
-
+<!--
 index.html
 Added paragraph tags (<p>) to 7 text blocks
 Inserted W3C logo image at line 30
@@ -29,3 +29,4 @@ Added 1 <h3> section heading
 
 syntax.html
 Added 10 section headings (<h3> and <h4>)
+-->
