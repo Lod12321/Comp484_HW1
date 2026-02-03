@@ -1,5 +1,6 @@
 # Comp484_HW1
 ```
+Github Pages Link :  https://lod12321.github.io/Comp484_HW1/
 index.html
 Added paragraph tags (<p>) to 7 text blocks
 Inserted W3C logo image at line 30
